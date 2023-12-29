@@ -27,7 +27,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Israel Fernandes Dias (follow me on [LinkedIn]([https://twitter.com/roquebuarque](https://www.linkedin.com/in/israel-fernandes-dias-278b7915b/)))
+Israel Fernandes Dias (follow me on [LinkedIn]((https://www.linkedin.com/in/israel-fernandes-dias-278b7915b/)))
 
 ## License
 ```
